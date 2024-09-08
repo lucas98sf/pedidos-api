@@ -1,0 +1,73 @@
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]eleases/
+[Rr]eleasesPublic/
+[Aa]rtefacts/
+
+# NuGet packages
+*.nupkg
+*.snupkg
+*.nuspec
+*.vscode
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# Logs
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Rider
+.idea/
+
+# Visual Studio Code
+.vscode/
+
+# JetBrains Rider
+.idea/
+
+# Azure Pipelines
+.azure-pipelines.yml
+
+# Node.js
+node_modules/
+
+# Project files
+*.suo
+*.user
+*.userosscache
+*.suo
+*.tmp
+*.temp
+*.log
+*.swp
+
+# User-specific files
+*.user
+*.userosscache
+*.suo
+*.tmp
+*.temp
+
+# Local configuration files
+.local/
+
+# Others
+*.db
+*.sublime-workspace
+*.sublime-project
+*.vs/
+*.vscode/
+*.nib
+*.suo
+*.suo~
+*.log
+*.lock
+*.swp
+*.sublime-workspace
+*.sublime-project
+*.DS_Store

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PedidosApi", "PedidosApi\PedidosApi.csproj", "{380ADF56-9701-4802-877B-4C39062B7075}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PedidosApi.Tests", "PedidosApi.Tests\PedidosApi.Tests.csproj", "{0EDFD9AD-797A-4606-9EF9-701F255DF4BF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{380ADF56-9701-4802-877B-4C39062B7075}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{380ADF56-9701-4802-877B-4C39062B7075}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{380ADF56-9701-4802-877B-4C39062B7075}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{380ADF56-9701-4802-877B-4C39062B7075}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0EDFD9AD-797A-4606-9EF9-701F255DF4BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EDFD9AD-797A-4606-9EF9-701F255DF4BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EDFD9AD-797A-4606-9EF9-701F255DF4BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EDFD9AD-797A-4606-9EF9-701F255DF4BF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4F9C769E-75D0-40EB-82A9-E619041B2576}
+	EndGlobalSection
+EndGlobal
